@@ -1,3 +1,4 @@
+package sir;
 public class While {
     public static void main(String[] args) 
     {
