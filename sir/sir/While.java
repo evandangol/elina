@@ -1,4 +1,4 @@
-package sir;
+package sir.sir;
 //hi hello
 public class While {
     public static void main(String[] args) {

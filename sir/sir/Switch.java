@@ -1,4 +1,4 @@
-package sir;
+package sir.sir;
 public class Switch
  {
      //changed
