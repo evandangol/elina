@@ -1,3 +1,4 @@
+package sir;
 public class JString {
     public static void main(String[] args) {
         // String name="kathmandu";
