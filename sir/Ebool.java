@@ -1,4 +1,4 @@
-package sir.sir;
+
 
 public class Ebool {
     public static void main(String[] args) {
